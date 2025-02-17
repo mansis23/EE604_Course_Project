@@ -10,3 +10,6 @@ to identify deepfake images.
 Our model was trained and
 evaluated on a comprehensive kaggle dataset of 10,000+ real and deepfake
 photos
+
+We experimented with various architechtures such as MobileNetV3, ResNet50, etc., but chose 
+EfficientNetB0 for the final implementation.
